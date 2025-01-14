@@ -7,7 +7,7 @@ TOKEN = '8046134885:AAE948QVWQ4AHO2AgZtZrucgijw1UVZXgyI'
 bot = telebot.TeleBot(TOKEN)
 CHAT_ID = 'MekdasBot'
 
-# Файл для збереження ідей
+# Файл для збереження ідей та чек системи
 IDEAS_FILE = 'ideas.txt'
 
 # Команда старту
